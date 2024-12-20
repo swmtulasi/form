@@ -6,10 +6,11 @@ body {
 }
 
 header {
-    background-color: #0066cc;
+    background-color: #00cc33;
     color: white;
     text-align: center;
     padding: 1.5rem 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 h1, h2 {
@@ -42,7 +43,7 @@ input, select, textarea {
 }
 
 button {
-    background-color: #0066cc;
+    background-color: #11cc00;
     color: white;
     border: none;
     padding: 0.8rem 1.5rem;
@@ -60,8 +61,9 @@ button:hover {
     margin-top: 2rem;
     padding: 1.5rem;
     background: #e6f7ff;
-    border-left: 4px solid #0066cc;
+    border-left: 4px solid #00cc22;
     border-radius: 4px;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 footer {
